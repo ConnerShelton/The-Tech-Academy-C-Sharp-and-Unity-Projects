@@ -1,0 +1,7 @@
+C:\Users\conma\source\repos\ConsoleApp_SimpleWhileStatements\bin\Debug\ConsoleApp_SimpleWhileStatements.exe.config
+C:\Users\conma\source\repos\ConsoleApp_SimpleWhileStatements\bin\Debug\ConsoleApp_SimpleWhileStatements.exe
+C:\Users\conma\source\repos\ConsoleApp_SimpleWhileStatements\bin\Debug\ConsoleApp_SimpleWhileStatements.pdb
+C:\Users\conma\source\repos\ConsoleApp_SimpleWhileStatements\obj\Debug\ConsoleApp_SimpleWhileStatements.csproj.AssemblyReference.cache
+C:\Users\conma\source\repos\ConsoleApp_SimpleWhileStatements\obj\Debug\ConsoleApp_SimpleWhileStatements.csproj.CoreCompileInputs.cache
+C:\Users\conma\source\repos\ConsoleApp_SimpleWhileStatements\obj\Debug\ConsoleApp_SimpleWhileStatements.exe
+C:\Users\conma\source\repos\ConsoleApp_SimpleWhileStatements\obj\Debug\ConsoleApp_SimpleWhileStatements.pdb
