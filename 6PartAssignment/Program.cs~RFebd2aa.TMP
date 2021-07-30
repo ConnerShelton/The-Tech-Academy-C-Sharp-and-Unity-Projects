@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _6PartAssignment
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Create Array
+            string[] Greetings = { "Good Morning!", "Good Day!", "Good Afternoon!", "Good Evening!" };
+
+            //Receive User Input to utilize with Array
+            Console.WriteLine("Please Insert Text Below");
+            Console.WriteLine("Then Press Enter");
+            string userIn = Console.ReadLine();
+
+            //Create loop to connect Array to Input
+            foreach (string i in Greetings)
+            {
+                Console.WriteLine(i + userIn);
+                Console.ReadLine();
+            }
+
+            //Infinite Loop and Using bools
+            //for (int i = 0; i > -1; i++) //Created infinite loop, commented out to fix below
+            for (int i = 1; i < 21; i++)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
+
+            for (int z = 1; z <= 28; z++)
+            {
+                Console.WriteLine(z);
+            }
+            Console.WriteLine("There are 29 Printable lines in the Console Pop-Up");
+            Console.ReadLine();
+
+            //
+
+
+        }
+    }
+}
