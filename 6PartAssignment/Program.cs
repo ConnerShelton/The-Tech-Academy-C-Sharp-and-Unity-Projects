@@ -44,7 +44,7 @@ namespace _6PartAssignment
             //Console.WriteLine("There are 29 Printable lines in the Console Pop-Up");
             //Console.ReadLine();
 
-            //LIST FOR PART 4, 5, and 6
+            //LIST FOR PART 4, 5, and 6 mainly 6 rn
             List<string> stringList = new List<string>();
 
             stringList.Add("Baldur");
@@ -65,8 +65,8 @@ namespace _6PartAssignment
             stringList.Add("Sleipnir");
             stringList.Add("Jormungandr");
             stringList.Add("Huginn");
-            stringList.Add("Odin");
-            stringList.Add("Odin");
+            stringList.Add("Mimir");
+            stringList.Add("Odin");            
             stringList.Add("Yggdrasil");
 
             //Part 4
@@ -121,21 +121,27 @@ namespace _6PartAssignment
 
             //Part 6
 
+            List<string> stringListCopy = new List<string>();
+
             Console.WriteLine("this is the data in our list");
-            foreach (String temp in stringList)
+            foreach (string temp in stringList)
             {
-                Console.WriteLine(temp);
-                if (stringList.Count != stringList.Distinct().Count())
+                foreach (string tempCopy in stringListCopy)
                 {
-                    Console.WriteLine("This is NOT a duplicate");
+                    if (temp == tempCopy)
+                    {
+                        Console.WriteLine(temp + " Has appeared before");
+                        Console.ReadLine();
+                    }
+                }
+                if (stringListCopy.Contains(temp) == false)
+                {
+                    Console.WriteLine(temp + " Has not appeared yet");
                     Console.ReadLine();
                 }
-                else
-                {
-                    Console.WriteLine("This is a duplicate");
-                    Console.ReadLine();
-                }
+                stringListCopy.Add(temp);
             }
+            Console.ReadLine();
 
         }
     }
