@@ -1,0 +1,7 @@
+C:\Users\conma\source\repos\ConsoleAppListDivision\bin\Debug\ConsoleAppListDivision.exe.config
+C:\Users\conma\source\repos\ConsoleAppListDivision\bin\Debug\ConsoleAppListDivision.exe
+C:\Users\conma\source\repos\ConsoleAppListDivision\bin\Debug\ConsoleAppListDivision.pdb
+C:\Users\conma\source\repos\ConsoleAppListDivision\obj\Debug\ConsoleAppListDivision.csproj.AssemblyReference.cache
+C:\Users\conma\source\repos\ConsoleAppListDivision\obj\Debug\ConsoleAppListDivision.csproj.CoreCompileInputs.cache
+C:\Users\conma\source\repos\ConsoleAppListDivision\obj\Debug\ConsoleAppListDivision.exe
+C:\Users\conma\source\repos\ConsoleAppListDivision\obj\Debug\ConsoleAppListDivision.pdb
