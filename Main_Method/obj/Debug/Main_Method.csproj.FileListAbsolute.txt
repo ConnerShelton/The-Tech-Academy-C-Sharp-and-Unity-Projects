@@ -1,0 +1,7 @@
+C:\Users\conma\source\repos\Main_Method\bin\Debug\Main_Method.exe.config
+C:\Users\conma\source\repos\Main_Method\bin\Debug\Main_Method.exe
+C:\Users\conma\source\repos\Main_Method\bin\Debug\Main_Method.pdb
+C:\Users\conma\source\repos\Main_Method\obj\Debug\Main_Method.csproj.AssemblyReference.cache
+C:\Users\conma\source\repos\Main_Method\obj\Debug\Main_Method.csproj.CoreCompileInputs.cache
+C:\Users\conma\source\repos\Main_Method\obj\Debug\Main_Method.exe
+C:\Users\conma\source\repos\Main_Method\obj\Debug\Main_Method.pdb
