@@ -1,0 +1,7 @@
+C:\Users\conma\source\repos\Method2\bin\Debug\Method2.exe.config
+C:\Users\conma\source\repos\Method2\bin\Debug\Method2.exe
+C:\Users\conma\source\repos\Method2\bin\Debug\Method2.pdb
+C:\Users\conma\source\repos\Method2\obj\Debug\Method2.csproj.AssemblyReference.cache
+C:\Users\conma\source\repos\Method2\obj\Debug\Method2.csproj.CoreCompileInputs.cache
+C:\Users\conma\source\repos\Method2\obj\Debug\Method2.exe
+C:\Users\conma\source\repos\Method2\obj\Debug\Method2.pdb
