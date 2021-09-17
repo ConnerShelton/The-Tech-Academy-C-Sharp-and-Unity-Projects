@@ -1,0 +1,7 @@
+C:\Users\conma\source\repos\method_Class\bin\Debug\method_Class.exe.config
+C:\Users\conma\source\repos\method_Class\bin\Debug\method_Class.exe
+C:\Users\conma\source\repos\method_Class\bin\Debug\method_Class.pdb
+C:\Users\conma\source\repos\method_Class\obj\Debug\method_Class.csproj.AssemblyReference.cache
+C:\Users\conma\source\repos\method_Class\obj\Debug\method_Class.csproj.CoreCompileInputs.cache
+C:\Users\conma\source\repos\method_Class\obj\Debug\method_Class.exe
+C:\Users\conma\source\repos\method_Class\obj\Debug\method_Class.pdb
