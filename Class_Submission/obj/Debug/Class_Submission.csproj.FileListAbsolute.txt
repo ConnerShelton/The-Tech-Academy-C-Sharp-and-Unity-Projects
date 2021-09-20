@@ -1,0 +1,7 @@
+C:\Users\conma\source\repos\Class_Submission\bin\Debug\Class_Submission.exe.config
+C:\Users\conma\source\repos\Class_Submission\bin\Debug\Class_Submission.exe
+C:\Users\conma\source\repos\Class_Submission\bin\Debug\Class_Submission.pdb
+C:\Users\conma\source\repos\Class_Submission\obj\Debug\Class_Submission.csproj.AssemblyReference.cache
+C:\Users\conma\source\repos\Class_Submission\obj\Debug\Class_Submission.csproj.CoreCompileInputs.cache
+C:\Users\conma\source\repos\Class_Submission\obj\Debug\Class_Submission.exe
+C:\Users\conma\source\repos\Class_Submission\obj\Debug\Class_Submission.pdb
