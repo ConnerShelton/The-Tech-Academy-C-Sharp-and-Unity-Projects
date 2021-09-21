@@ -23,6 +23,10 @@ namespace Class_Submission
             int answer = num / 2;
             Console.WriteLine(answer);
         }
+        public static void Divide(string userIn, int out myIn)
+        {
+            
+        }
     }
 
     
