@@ -20,7 +20,7 @@ namespace Class_Submission
 
             Method name = new Method();
 
-            if (!int.TryParse(userIn, myIn))
+            if (!int.TryParse(userIn, out myIn))
             {
                 Method.Divide(userIn, 18);
             }
