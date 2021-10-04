@@ -1,7 +1,0 @@
-C:\Users\conma\source\repos\mthdsAndObjects\bin\Debug\mthdsAndObjects.exe.config
-C:\Users\conma\source\repos\mthdsAndObjects\bin\Debug\mthdsAndObjects.exe
-C:\Users\conma\source\repos\mthdsAndObjects\bin\Debug\mthdsAndObjects.pdb
-C:\Users\conma\source\repos\mthdsAndObjects\obj\Debug\mthdsAndObjects.csproj.AssemblyReference.cache
-C:\Users\conma\source\repos\mthdsAndObjects\obj\Debug\mthdsAndObjects.csproj.CoreCompileInputs.cache
-C:\Users\conma\source\repos\mthdsAndObjects\obj\Debug\mthdsAndObjects.exe
-C:\Users\conma\source\repos\mthdsAndObjects\obj\Debug\mthdsAndObjects.pdb

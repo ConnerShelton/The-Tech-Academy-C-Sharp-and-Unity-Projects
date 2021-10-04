@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9D1D1611-5729-4341-B082-C1E17AEFB04F}</ProjectGuid>
+    <ProjectGuid>{ADED7327-4482-4071-A9DC-52049AB00878}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>mthdsAndObjects</RootNamespace>
-    <AssemblyName>mthdsAndObjects</AssemblyName>
+    <RootNamespace>AbstractClass</RootNamespace>
+    <AssemblyName>AbstractClass</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
