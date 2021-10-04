@@ -10,7 +10,10 @@ namespace mthdsAndObjects
     {
         static void Main(string[] args)
         {
+            Employee.FirstName = "Sample";
+            Employee.LastName = "Student";
 
+            Employee.SayName();
         }
     }
 }

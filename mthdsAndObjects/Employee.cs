@@ -9,6 +9,6 @@ namespace mthdsAndObjects
     class Employee : Person
     {
         //prop Id
-        public string Id { get; set; }
+        public int Id { get; set; }
     }
 }

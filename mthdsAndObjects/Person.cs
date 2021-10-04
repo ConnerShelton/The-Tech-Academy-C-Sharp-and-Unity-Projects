@@ -9,13 +9,14 @@ namespace mthdsAndObjects
     class Person
     {
         //Name propertys
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public static string FirstName { get; set; }
+        public static string LastName { get; set; }
 
         //method SayName
         public static void SayName()
         {
-            
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+            Console.ReadLine();
         }
     }
 }
