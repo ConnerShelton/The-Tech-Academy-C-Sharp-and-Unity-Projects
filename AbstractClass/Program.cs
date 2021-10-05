@@ -16,6 +16,9 @@ namespace AbstractClass
             Employee employee = new Employee();
 
             employee.SayName();
+            employee.Quit();
+
+            //veiw results
             Console.ReadLine();
         }
     }
