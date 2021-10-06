@@ -13,10 +13,11 @@ namespace AbstractClass
             Employee.firstName = "Sample";
             Employee.lastName = "Student";
 
-            Employee employee = new Employee();
+            //Employee employee = new Employee();
+            //employee.SayName();
 
-            employee.SayName();
-            employee.Quit();
+            IQuittalbe quittable = new Employee();
+            quittable.Quit();
 
             //veiw results
             Console.ReadLine();
