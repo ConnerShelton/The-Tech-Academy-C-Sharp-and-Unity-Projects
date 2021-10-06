@@ -17,5 +17,6 @@ namespace AbstractClass
         {
             Console.WriteLine(firstName + " " + lastName);
         }
+
     }
 }

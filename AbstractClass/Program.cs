@@ -10,16 +10,22 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
+            //Set Name
             Employee.firstName = "Sample";
             Employee.lastName = "Student";
 
+            //SayName Code Block
             //Employee employee = new Employee();
             //employee.SayName();
 
-            IQuittalbe quittable = new Employee();
-            quittable.Quit();
+            //Quit code block
+            //IQuittalbe quittable = new Employee();
+            //quittable.Quit();
 
-            //veiw results
+            //Check matching IDs
+            
+
+            //To veiw results
             Console.ReadLine();
         }
     }
